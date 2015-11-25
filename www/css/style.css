@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+
+.bar.bar-assertive {
+    color: #000;
+    background: none;
+}
+
+.bar.bar-assertive .title {
+    color: #000;
+}
